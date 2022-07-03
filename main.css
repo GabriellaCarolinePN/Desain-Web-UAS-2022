@@ -27,7 +27,7 @@ body {
 }
 .navbar{
   position: fixed;
-  width: 145%;
+  width: 120%;
   z-index: 2;
   padding: 25px 0;
   transition: all 0.3s ease;
